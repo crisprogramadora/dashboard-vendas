@@ -20,3 +20,7 @@ Projeto desenvolvido para simular um processo de extração e agregação de dad
 
 ## Observações
 - O projeto é uma simulação com dados fictícios, voltado para fins educacionais e de demonstração.
+
+## 🔗 Link do Dashboard 
+
+https://escolatrabalhador4-my.sharepoint.com/:u:/r/personal/crisprogramadora24_escoladotrabalhador40_com_br/Documents/Projeto%20An%C3%A1lise%20de%20dados%20-%20An%C3%A1lise%20de%20Desempenho%20de%20Vendas.pbix?csf=1&web=1&e=J5R7RW
