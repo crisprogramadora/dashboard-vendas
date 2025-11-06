@@ -23,4 +23,4 @@ Projeto desenvolvido para simular um processo de extração e agregação de dad
 
 ## 🔗 Link do Dashboard 
 
-https://escolatrabalhador4-my.sharepoint.com/:u:/r/personal/crisprogramadora24_escoladotrabalhador40_com_br/Documents/Projeto%20An%C3%A1lise%20de%20dados%20-%20An%C3%A1lise%20de%20Desempenho%20de%20Vendas.pbix?csf=1&web=1&e=J5R7RW
+https://app.powerbi.com/view?r=eyJrIjoiMzc2MWQ2NDktOGFiOS00OGNiLWEzYTEtY2UyM2VkYjlkN2FhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
